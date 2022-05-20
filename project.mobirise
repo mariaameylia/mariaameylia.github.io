@@ -39,7 +39,13 @@
     "path": "@PROJECT_PATH@",
     "name": "Maria Ameylia",
     "versionFirst": "5.6.0",
-    "siteFonts": [],
+    "siteFonts": [
+      {
+        "css": "'Lexend', sans-serif",
+        "name": "Lexend",
+        "url": "https://fonts.googleapis.com/css?family=Lexend:100,200,300,400,500,600,700,800,900"
+      }
+    ],
     "favicon": "@PROJECT_PATH@/assets/images/maria-ameylia_2.jpg",
     "mbrsiteDomain": "kgrvwnelht",
     "imageResize": false,
@@ -53,7 +59,7 @@
     "versionPublish": "5.6.0",
     "screenshot": "screenshot.png",
     "modified": "2022-03-08T07:59:54.224Z",
-    "publishChangesOnly": false
+    "publishChangesOnly": true
   },
   "pages": {
     "index.html": {
